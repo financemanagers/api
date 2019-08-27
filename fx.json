@@ -1,0 +1,6 @@
+{
+  "account": "https://account.ubfxcn.com",
+  "api": "https://s.ubfxcn.com",
+  "socket": "https://io.ubfxcn.com",
+  "cdn": "https://cdn.ubfxcn.com"
+}
