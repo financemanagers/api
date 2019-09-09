@@ -1,6 +1,1 @@
-{
-  "account": "https://account.ubfxcn.com",
-  "api": "https://s.ubfxcn.com",
-  "socket": "https://io.ubfxcn.com",
-  "cdn": "https://cdn.ubfxcn.com"
-}
+{"result":true,"data":[{"account":"https://account.ubfxcn.com","api":"https://s.ubfxcn.com","socket":"https://io.ubfxcn.com","h5":"https://www.ubfxcn.com"},{"account":"https://account.ubfxapi.cn","api":"https://s.ubfxapi.cn","socket":"https://io2.ubfxcn.com","h5":"https://www.ubfxapi.cn"}]}
